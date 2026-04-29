@@ -1,1 +1,0 @@
-./jazz_char.o

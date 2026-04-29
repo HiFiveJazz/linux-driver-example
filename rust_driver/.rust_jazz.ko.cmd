@@ -1,1 +1,0 @@
-savedcmd_rust_jazz.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T /usr/lib/modules/6.19.14-1-vfio/build/scripts/module.lds -o rust_jazz.ko rust_jazz.o rust_jazz.mod.o .module-common.o
