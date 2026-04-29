@@ -1,0 +1,34 @@
+Sources: 
+
+Rust in Linux kernel docs:
+https://docs.kernel.org/rust/index.html
+
+Rust kernel API docs (kernel crate):
+https://rust.docs.kernel.org/
+
+Rust-for-Linux overview:
+https://en.wikipedia.org/wiki/Rust_for_Linux
+
+Misc Device
+Miscdevice module overview:
+https://rust.docs.kernel.org/kernel/miscdevice/index.html
+
+MiscDevice trait:
+https://rust.docs.kernel.org/next/kernel/miscdevice/trait.MiscDevice.html
+
+Miscdevice source code (IMPORTANT):
+https://rust.docs.kernel.org/next/src/kernel/miscdevice.rs.html
+
+I/O Layer
+IOV module docs:
+https://rust.docs.kernel.org/kernel/iov/index.html
+
+IOV source code:
+https://rust.docs.kernel.org/src/kernel/iov.rs.html
+
+Supporting Concepts
+Kernel crate overview:
+https://rust-for-linux.github.io/docs/kernel/
+
+Rust kernel driver tutorial:
+https://rust-exercises.ferrous-systems.com/latest/book/building-linux-kernel-driver
