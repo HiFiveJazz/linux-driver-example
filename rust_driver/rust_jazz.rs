@@ -2,14 +2,14 @@
 
 //! Rust misc device example.
 
-use kernel::prelude::*;
-use kernel::{c_str, miscdevice};
-use kernel::{c_str, miscdevice};
-use kernel::{c_str, miscdevice};
-use kernel::{c_str, miscdevice};
-use kernel::{c_str, miscdevice};
-use kernel::{c_str, miscdevice};
-use kernel::{c_str, miscdevice};
+// use kernel::prelude::*;
+// use kernel::{c_str, miscdevice};
+// use kernel::{c_str, miscdevice};
+// use kernel::{c_str, miscdevice};
+// use kernel::{c_str, miscdevice};
+// use kernel::{c_str, miscdevice};
+// use kernel::{c_str, miscdevice};
+// use kernel::{c_str, miscdevice};
 
 module! {
     type: RustJazz,
